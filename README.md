@@ -5,7 +5,6 @@
 Необходимые библиотеки:
 
 1. `pip3 install qrcode`
-
 2. `pip3 install Pillow`
 
 
