@@ -1,10 +1,6 @@
 # qr_coded
 
 #### Создание qr-кода с помощью вашей ссылки.
-Необходимые библиотеки:
-
-- `pip3 install qrcode`
-- `pip3 install Pillow`
 
 Запуск программы:
 
@@ -13,8 +9,13 @@
 2. Создать виртуальную среду: `python3 -m venv venv`
    
 4. Активировать виртуальную среду: `source venv/bin/activate`
-   
-5. Запуск кода: `python3 main.py`
+
+5. Установка необходимых библиотек:
+
+    - `pip3 install qrcode`
+    - `pip3 install Pillow`
+
+6. Запуск кода: `python3 main.py`
 
 ---
 
@@ -31,6 +32,11 @@ Start the program:
 2. Create a virtual environment: `python3 -m venv venv`
 
 3. Activate the virtual environment: `source venv/bin/activate`
+
+4. Install the necessary libraries:
+
+    - `pip3 install qrcode`
+    - `pip3 install Pillow`
 
 4. Run the code: `python3 main.py`
 
