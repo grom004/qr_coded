@@ -38,5 +38,5 @@ Start the program:
     - `pip3 install qrcode`
     - `pip3 install Pillow`
 
-4. Run the code: `python3 main.py`
+5. Run the code: `python3 main.py`
 
