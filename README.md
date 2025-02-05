@@ -23,3 +23,14 @@ Creating a qr code using your link.
 To get started install the libraries you need:
 1. `pip3 install qrcode`
 2. `pip3 install Pillow`
+
+Start the program:
+
+1. Go to the project directory: `cd /...`
+
+2. Create a virtual environment: `python3 -m venv venv`
+
+3. Activate the virtual environment: `source venv/bin/activate`
+
+4. Run the code: `python3 main.py`
+
